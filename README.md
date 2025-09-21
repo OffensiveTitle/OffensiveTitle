@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OffensiveTitle
-- 👀 I’m interested in backend development & servers.
-- 🌱 I’m currently learning C++, C, Python and Javascript
-- 📫 How to reach me: daftyrussian@swisscows.email
+- 👀 I’m interested in low-level development & sensible web development.
+- 🌱 I’m currently learning C/C++, PHP, HTML, CSS and Java
+- 📫 How to reach me: offensivename.com
 
 <!---
 OffensiveTitle/OffensiveTitle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
